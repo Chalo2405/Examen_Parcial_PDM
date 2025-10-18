@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Juego Colores</string>
+    <string name="welcome_msg">Pon a prueba tu rapidez y precisión.</string>
+    <string name="start_game">Iniciar juego</string>
+    <string name="rules_title">Reglas</string>
+    <string name="rules_body">
+        • Tienes 30 segundos.\n
+        • Toca el botón cuyo color coincida con el que aparece en pantalla.\n
+        • Cada acierto suma 1 punto.\n
+        • Al terminar, verás tu puntaje y el historial de esta sesión.
+    </string>
+    <string name="ok">Entendido</string>
+</resources>
