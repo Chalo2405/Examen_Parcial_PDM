@@ -1,3 +1,8 @@
+//en este proyecto realice el juego de colores basico en donde hay algunas pequeñas animaciones extras
+//Autor: Luis Gonzalo Basurco Monroy
+//Fecha Inicio: 18 de Octubre
+//Fecha Modificacion: 19 de Octubre
+
 package com.example.juegocolores
 
 import android.os.Bundle
